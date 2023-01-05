@@ -1,2 +1,2 @@
-# Customer_Segmentation_uisng_KMeansClustering
+# Customer_Segmentation_using_KMeansClustering
 ML Practice
